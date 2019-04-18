@@ -1,0 +1,33 @@
+.title {
+color:goldenrod;
+text-align:center;
+background:black;
+border:15px solid goldenrod;
+}
+.productline {
+ display:flex;
+ justify-content:space-around;
+ background:black;
+ color:goldenrod;
+ border:15px solid goldenrod;
+}
+.inputs {
+display:flex;
+justify-content:space-around;
+ padding:50px;
+ height:20px;
+}
+.buttons {
+ display:flex;
+ justify-content:space-around;
+ padding:25px;
+}
+img{
+    height:100px;
+    width:100px;
+    }
+.master{
+    display:flex;
+    justify-content:space-around;
+    border:goldenrod 3px solid;
+    }
